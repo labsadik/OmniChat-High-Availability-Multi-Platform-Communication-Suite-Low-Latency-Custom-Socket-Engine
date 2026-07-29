@@ -1,6 +1,6 @@
 <h1 align="center">✨ Full-Stack Realtime Chat App (Mobile + Web + API) ✨</h1>
 
-
+OmniChat — High-Availability Multi-Platform Communication Suite & Low-Latency Custom Socket Engine
 
 ✨ **Highlights:**
 
